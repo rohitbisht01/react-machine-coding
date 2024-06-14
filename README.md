@@ -1,0 +1,1 @@
+Develop a React application that displays a counter with two buttons: one labeled "Increment" and one labeled "Decrement." Clicking the "Increment" button should increase the counter's value by 1, while clicking the "Decrement" button should decrease it by 1. The current counter value should be displayed clearly on the screen.
