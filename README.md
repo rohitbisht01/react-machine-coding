@@ -4,3 +4,6 @@ React Machine Coding
 2. Dynamic List of Items with Strikethrough
 3. Color Picker with Hex Code Display
 4. Password Strength Checker
+5. QR Generator
+
+Reference: https://choubey.gitbook.io/react-coding-puzzles
